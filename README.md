@@ -42,11 +42,11 @@ El proyecto utiliza archivos CSV con información típica del dominio telecom:
 
 ## Resultados clave y recomendaciones de negocio
 
-1. El plan **Surf muestra consumos significativamente mayores** a Ultimate
+1. El plan **Surf muestra consumos significativamente mayores** a Ultimate, lo que indica mayor uso del consumidor.
 2. Surf presenta mayor variabilidad en el consumo de sus servicios respecto a Ultimate.
-3. Ambos planes experimentan un crecimiento mensual, especialmente **Surf registra incrementos más pronunciados**.
+3. Ambos planes experimentan un crecimiento mensual, especialmente **Surf registra incrementos más pronunciados**, por lo que Ultimate resulta un plan atractivo para otro tipo de consumidor que no está en decremento.
 4. Los **ingresos mensuales** del plan Surf superan a los de Ultimate con una variabilidad notable.
-5. Las pruebas de hipótesis confirman **diferencias significativas en los ingresos promedio** entre ambos planes, mostrando que es más atractivo y generador de mayores ingresos los del plan Surf.
+5. Las pruebas de hipótesis confirman **diferencias significativas en los ingresos promedio** entre ambos planes, mostrando que es más atractivo y generador de mayores ingresos los del plan Surf. Se recomienda explorar estrategias que potencialicen los intresos mediante este producto.
 
 ## Cómo ejecutar el proyecto
 
